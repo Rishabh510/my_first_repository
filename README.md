@@ -1,2 +1,3 @@
 # my_first_repository
-a new message in the repo
+1. a new message in the repo
+2. another message through Atom cloning
